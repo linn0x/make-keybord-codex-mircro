@@ -1,4 +1,4 @@
-# MG65 Codex 快捷键
+# make-keybord-codex-mircro
 
 用 MG65 键盘右侧的 2×2 按键和 Fn 旋钮控制 Codex App。
 
