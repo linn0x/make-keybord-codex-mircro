@@ -1,0 +1,14 @@
+[
+  {
+    "command": "composer.decreaseReasoningEffort",
+    "key": "Ctrl+Command+Alt+-"
+  },
+  {
+    "command": "composer.increaseReasoningEffort",
+    "key": "Ctrl+Command+Alt+="
+  },
+  {
+    "command": "composer.togglePlanMode",
+    "key": "Ctrl+Command+Alt+P"
+  }
+]
